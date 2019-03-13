@@ -43,7 +43,17 @@ Find the captured images and videos by clicking the "open file location" button 
 
 The files are organized into year/month/date/(movies/pictures)
 
-## Program settings
+## Options
 
-The program settings allow users to change the COM ports used for the different peripherals. The default configuration should work out of the box.
+The options window is used to configure the COM ports to the pressure sensor, lights and GPS. The IP address of the camera is also configured here.
 
+All the required settings should be correctly configured upon installation of the software. 
+
+The following settings should work:
+
+1. GPS - COM5
+2. Lights - COM2
+3. Pressure sensor - COM3
+4. Camera ip address - 
+
+The options window is accessed from the top menu. To open the window, click edit and options. These buttons are located in the top menu.
