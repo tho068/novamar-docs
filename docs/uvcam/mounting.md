@@ -2,34 +2,39 @@
 
 This chapter describes how to assemble and disassemble the rig. Pay attention to the different warnings listed.
 
+![tools](/uvcam_tools.png)
+
 Required tools:
 * 10 mm wrench
 * 19 mm wrench
 
 ## Assembly
 
-1. The first step is to attach the camera housing to the bottom frame. Support the walls by standing in the center of the frame and attach the housing to the frame. Pay attention to the warning below.
+1. The first step is to attach the camera housing to the bottom frame. Support the walls by standing in the center of the frame and attach the housing to the frame. 
+
+![fasten_frame_and_house](/uvcam_house-and-frame.png)
 
 ::: danger Careful with the glass dome
 The glass dome is very fragile. Be careful when handling the top to avoid any damage to the glass.
 :::
 
-2. Attach the four red hinges at both side of the frame using a 10 mm wrench.
+2. Attach the three red hinges at both side of the frame using a 10 mm wrench. The red hinge should be on the inside of the frame to avoid objects getting stuck during surveys.
 
-![hinges](../assets/uvcam_hinges.png)
+![hinges](/uvcam_four_red_hinges.png)
 
 3. Attach the power supply to the camera housing. Then fasten the power supply using two nuts, one at each rod. These nuts are tightened using the 19 mm wrench.
 
-![psu](../assets/uvcam_psu.png)
-![psu_body](../assets/uvcam_psu_housing.png)
+![psu](/uvcam_psu.png)
 
-4. Connect the two cables from the power supply to the top of the camera housing.
+4. Connect the two subconn cables going from the power supply to the connectors located on the top of the housing.
 
-5. Attach the two cables from the lights.
+5. Connect the two subconn cables going from the lights to the connectors on the underside of the housing.
 
-6. Attach the power cable from the camera rig to the pelicase and power the pelicase with 220 VAC.
+6. Connect the camera rig to the pelicase and power the pelicase with 220 VAC.
 
-7. Turn on the circuit breaker located in the pelicase.
+7. Connect the USB and Ethernet cable inside the pelicase to the rugged computer.
+
+8. Make sure that all subconn cables are connected, and turn on the circuit breaker in the pelicase.
 
 ## Disassembly
 

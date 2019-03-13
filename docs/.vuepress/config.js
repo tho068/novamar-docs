@@ -22,7 +22,7 @@ module.exports = {
               link: '/datalog/introduction'
             },
             {
-              text: 'Sea-Bed camera',
+              text: 'Seabed camera',
               link: '/uvcam/introduction'
             },
             {
@@ -41,7 +41,7 @@ module.exports = {
               ]
             },
             {
-              title: 'Sea-Bed camera',
+              title: 'Seabed camera',
               children: [
                   '/uvcam/introduction',
                   '/uvcam/mounting',
